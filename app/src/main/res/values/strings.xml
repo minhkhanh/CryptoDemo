@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CryptoDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password:</string>
+    <string name="plain_text">Plain text:</string>
+    <string name="text_sample">Suzanne Collins sinh ngày 11/8/1962 tại Connecticut, Mỹ. Bà rất có duyên trong lĩnh vực văn học cho trẻ em. Bà trở thành nhân viên của đài Nickelodeon từ năm 1991, viết nhiều kịch bản chương trình thiếu nhi, trong đó có hai chương trình \"Clarissa Explains it All\" và \"The Mystery Files of Shelby Woo\" được đề cử giải Emmy. Khi bà gặp tác giả truyện thiếu nhi James Proimos, bà được động viên viết sách cho trẻ em và cực kỳ ấn tượng bởi câu truyện \"Alice ở xứ sở thần tiên\". Đó là cảm hứng cho bà sáng tác bộ truyện năm phần \"The Underland Chronicles\". Nhưng nếu nói đến thành công rực rỡ nhất của Suzanne Collins thì phải nói đến tác phẩm Trò chơi sinh tử, \"Catching Fire\" và \"Mockingjay\". Những cuốn sách này từng đạt được rất nhiều giải thưởng của giới phê bình văn học, bao gồm giải Georgia Peach Award, một giải quan trọng do bạn đọc thiếu niên bình chọn.</string>
+    <string name="crypt_mode">Crypt mode:</string>
+    <string name="aes">AES</string>
+    <string name="zuc">ZUC</string>
+    <string name="input_text">Input:</string>
+    <string name="output_text">Output:</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="copy_output_to_input">Copy Out2In</string>
+    <string name="default_password">12345</string>
+    <string name="message_text">Message:</string>
+    <string name="gen_key_pair">Gen KeyPair</string>
+    <string name="compute_sha3">Compute SHA3</string>
+    <string name="encrypt_digest">Encrypt digest</string>
+    <string name="sha3_digest_text">SHA3 digest</string>
+</resources>
